@@ -1,4 +1,4 @@
-#About me:
+# About me:
 Hi! My name is Mike, *one of many* but I'll be your favorite. 
 In my spare time I reading, hiking, playing video/board games, watching anime, and trying new restaurants around my area. 
 My interests within computer science are:
