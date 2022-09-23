@@ -12,5 +12,5 @@ My interests within computer science are:
 1. I almost died while hiking.
 2. I'm ambidextrous.
 3. I've given myself a tattoo. 
-Contact me and find out which are true!
 
+Contact me and find out which are true!
